@@ -4,15 +4,15 @@ The current focus of this project, is to create a JavaScript based game of rock 
 
 The skills I will have demonstrated are:
 
-Git commits
-Linking JS to HTML
-Algorithms
-JS functions
-JS Strings
-JS Booleans
-JS Conditionals
-JS Ternary Operator
-JS Or Operator
-JS For Loop
-JS Concatenation
-JS Increment Operator
+Git commits <br />
+Linking JS to HTML <br />
+Algorithms <br />
+JS functions <br />
+JS Strings <br />
+JS Booleans <br />
+JS Conditionals <br />
+JS Ternary Operator <br />
+JS Or Operator <br />
+JS For Loop <br />
+JS Concatenation <br />
+JS Increment Operator <br />
