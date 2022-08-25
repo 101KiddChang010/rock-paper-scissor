@@ -12,7 +12,5 @@ JS Strings <br />
 JS Booleans <br />
 JS Conditionals <br />
 JS Ternary Operator <br />
-JS Or Operator <br />
 JS For Loop <br />
 JS Concatenation <br />
-JS Increment Operator <br />
