@@ -14,3 +14,4 @@ JS Conditionals <br />
 JS Ternary Operator <br />
 JS For Loop <br />
 JS Concatenation <br />
+JS DOM
